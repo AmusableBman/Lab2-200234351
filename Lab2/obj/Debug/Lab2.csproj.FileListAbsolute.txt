@@ -1,0 +1,10 @@
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\Lab2\Lab2\bin\Lab2.dll.config
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\Lab2\Lab2\bin\Lab2.dll
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\Lab2\Lab2\bin\Lab2.pdb
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\Lab2\Lab2\bin\EntityFramework.dll
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\Lab2\Lab2\bin\EntityFramework.SqlServer.dll
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\Lab2\Lab2\bin\EntityFramework.xml
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\Lab2\Lab2\bin\EntityFramework.SqlServer.xml
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\Lab2\Lab2\obj\Debug\Lab2.dll
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\Lab2\Lab2\obj\Debug\Lab2.pdb
